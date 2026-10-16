@@ -4,10 +4,17 @@
     <title>TypeScript &amp; Node.js Architects Hub</title>
     <link>https://typescript-nodejs-architects-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 15 Oct 2026 06:05:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 06:05:39 GMT</lastBuildDate>
     <atom:link href="https://typescript-nodejs-architects-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                    <item>
+                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Hack The Box Official Discord (Discord)</title>
+      <link>https://discord.gg/hackthebox</link>
+      <guid isPermaLink="false">https://typescript-nodejs-architects-hub.netlify.app/#typescript-nodejs-architects-hub-discord-20261016-1-2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 06:05:39 GMT</pubDate>
+      <description>Newly verified community added to TypeScript &amp; Node.js Architects Hub: Official community for Hack The Box users tackling active CTF machines, forensic challenges, and Academy modules.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/bugbounty Hunters (Reddit)</title>
       <link>https://www.reddit.com/r/bugbounty/</link>
       <guid isPermaLink="false">https://typescript-nodejs-architects-hub.netlify.app/#typescript-nodejs-architects-hub-reddit-20261015-1-2026-10-15</guid>
@@ -174,12 +181,6 @@
       <guid isPermaLink="false">https://typescript-nodejs-architects-hub.netlify.app/#typescript-nodejs-architects-hub-telegram-20260914-1-2026-09-14</guid>
       <pubDate>Mon, 14 Sep 2026 10:49:26 GMT</pubDate>
       <description>Newly verified community added to TypeScript &amp; Node.js Architects Hub: Aggregated daily articles on site reliability engineering, observability stacks, and infrastructure automation.</description>
-    </item>
-<item>
-      <title>TypeScript &amp; Node.js Architects Hub Initial Release</title>
-      <link>https://typescript-nodejs-architects-hub.netlify.app/</link>
-      <pubDate>Sun, 13 Sep 2026 11:34:38 GMT</pubDate>
-      <description>Initial collection of verified communities published.</description>
     </item>
   </channel>
 </rss>
