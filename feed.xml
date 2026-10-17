@@ -4,10 +4,17 @@
     <title>TypeScript &amp; Node.js Architects Hub</title>
     <link>https://typescript-nodejs-architects-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 16 Oct 2026 06:05:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 06:05:34 GMT</lastBuildDate>
     <atom:link href="https://typescript-nodejs-architects-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                        <item>
+                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: TryHackMe Official Discord (Discord)</title>
+      <link>https://discord.gg/tryhackme</link>
+      <guid isPermaLink="false">https://typescript-nodejs-architects-hub.netlify.app/#typescript-nodejs-architects-hub-discord-20261017-1-2026-10-17</guid>
+      <pubDate>Sat, 17 Oct 2026 06:05:34 GMT</pubDate>
+      <description>Newly verified community added to TypeScript &amp; Node.js Architects Hub: Beginner and intermediate hands-on cybersecurity learning platform with active study groups and walkthrough support.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hack The Box Official Discord (Discord)</title>
       <link>https://discord.gg/hackthebox</link>
       <guid isPermaLink="false">https://typescript-nodejs-architects-hub.netlify.app/#typescript-nodejs-architects-hub-discord-20261016-1-2026-10-16</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://typescript-nodejs-architects-hub.netlify.app/#typescript-nodejs-architects-hub-telegram-20260915-1-2026-09-15</guid>
       <pubDate>Tue, 15 Sep 2026 06:04:59 GMT</pubDate>
       <description>Newly verified community added to TypeScript &amp; Node.js Architects Hub: Updates on CNCF graduated projects, Envoy, Cilium, OpenTelemetry, and container security.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: DevOps &amp; SRE News Channel (Telegram)</title>
-      <link>https://t.me/devops_channel</link>
-      <guid isPermaLink="false">https://typescript-nodejs-architects-hub.netlify.app/#typescript-nodejs-architects-hub-telegram-20260914-1-2026-09-14</guid>
-      <pubDate>Mon, 14 Sep 2026 10:49:26 GMT</pubDate>
-      <description>Newly verified community added to TypeScript &amp; Node.js Architects Hub: Aggregated daily articles on site reliability engineering, observability stacks, and infrastructure automation.</description>
     </item>
   </channel>
 </rss>
