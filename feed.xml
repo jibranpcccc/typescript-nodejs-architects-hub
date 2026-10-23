@@ -4,10 +4,17 @@
     <title>TypeScript &amp; Node.js Architects Hub</title>
     <link>https://typescript-nodejs-architects-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 22 Oct 2026 06:05:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:05:39 GMT</lastBuildDate>
     <atom:link href="https://typescript-nodejs-architects-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                <item>
+                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: r/technology World News (Reddit)</title>
+      <link>https://www.reddit.com/r/technology/</link>
+      <guid isPermaLink="false">https://typescript-nodejs-architects-hub.netlify.app/#typescript-nodejs-architects-hub-reddit-20261023-1-2026-10-23</guid>
+      <pubDate>Fri, 23 Oct 2026 06:05:39 GMT</pubDate>
+      <description>Newly verified community added to TypeScript &amp; Node.js Architects Hub: A dedicated forum for major news, regulatory developments, and ethical issues in the tech ecosystem.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: OWASP CheatSheet Discussions (GitHub)</title>
       <link>https://github.com/OWASP/CheatSheetSeries/discussions</link>
       <guid isPermaLink="false">https://typescript-nodejs-architects-hub.netlify.app/#typescript-nodejs-architects-hub-github-20261022-1-2026-10-22</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://typescript-nodejs-architects-hub.netlify.app/#typescript-nodejs-architects-hub-discord-20260923-1-2026-09-23</guid>
       <pubDate>Wed, 23 Sep 2026 06:05:16 GMT</pubDate>
       <description>Newly verified community added to TypeScript &amp; Node.js Architects Hub: The largest generative art community in the world, featuring real-time image prompting, stylistic feedback, and gallery showcases.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: OpenAI Official Discord (Discord)</title>
-      <link>https://discord.gg/openai</link>
-      <guid isPermaLink="false">https://typescript-nodejs-architects-hub.netlify.app/#typescript-nodejs-architects-hub-discord-20260922-1-2026-09-22</guid>
-      <pubDate>Tue, 22 Sep 2026 06:05:11 GMT</pubDate>
-      <description>Newly verified community added to TypeScript &amp; Node.js Architects Hub: Official community server for OpenAI developers, GPT API architectures, assistants, and generative model updates.</description>
     </item>
   </channel>
 </rss>
