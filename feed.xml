@@ -4,10 +4,17 @@
     <title>TypeScript &amp; Node.js Architects Hub</title>
     <link>https://typescript-nodejs-architects-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 25 Oct 2026 06:05:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 06:52:28 GMT</lastBuildDate>
     <atom:link href="https://typescript-nodejs-architects-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                            <item>
+                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: Technology &amp; Science Discord (Discord)</title>
+      <link>https://discord.gg/tech</link>
+      <guid isPermaLink="false">https://typescript-nodejs-architects-hub.netlify.app/#typescript-nodejs-architects-hub-discord-20261026-1-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 06:52:28 GMT</pubDate>
+      <description>Newly verified community added to TypeScript &amp; Node.js Architects Hub: Global discussion server for engineering disciplines, scientific methodology, and emerging tech.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/linux Open Source OS (Reddit)</title>
       <link>https://www.reddit.com/r/linux/</link>
       <guid isPermaLink="false">https://typescript-nodejs-architects-hub.netlify.app/#typescript-nodejs-architects-hub-reddit-20261025-1-2026-10-25</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://typescript-nodejs-architects-hub.netlify.app/#typescript-nodejs-architects-hub-reddit-20260927-1-2026-09-27</guid>
       <pubDate>Sun, 27 Sep 2026 06:05:18 GMT</pubDate>
       <description>Newly verified community added to TypeScript &amp; Node.js Architects Hub: Community dedicated to Stable Diffusion checkpoints, LoRAs, ComfyUI workflows, ControlNet, and SDXL rendering.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/Midjourney Prompt Engineering (Reddit)</title>
-      <link>https://www.reddit.com/r/Midjourney/</link>
-      <guid isPermaLink="false">https://typescript-nodejs-architects-hub.netlify.app/#typescript-nodejs-architects-hub-reddit-20260925-1-2026-09-25</guid>
-      <pubDate>Fri, 25 Sep 2026 06:05:31 GMT</pubDate>
-      <description>Newly verified community added to TypeScript &amp; Node.js Architects Hub: Curated community sharing Midjourney prompt formulas, lighting styles, camera parameters, and generative showcases.</description>
     </item>
   </channel>
 </rss>
