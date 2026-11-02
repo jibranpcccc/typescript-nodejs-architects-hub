@@ -4,10 +4,17 @@
     <title>TypeScript &amp; Node.js Architects Hub</title>
     <link>https://typescript-nodejs-architects-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 01 Nov 2026 09:11:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 06:05:26 GMT</lastBuildDate>
     <atom:link href="https://typescript-nodejs-architects-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                <item>
+                                                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://typescript-nodejs-architects-hub.netlify.app/#typescript-nodejs-architects-hub-forum-20261029-1-2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 06:05:26 GMT</pubDate>
+      <description>Newly verified community added to TypeScript &amp; Node.js Architects Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://typescript-nodejs-architects-hub.netlify.app/#typescript-nodejs-architects-hub-forum-20261029-1-2026-11-01</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://typescript-nodejs-architects-hub.netlify.app/#typescript-nodejs-architects-hub-discord-20261003-1-2026-10-03</guid>
       <pubDate>Sat, 03 Oct 2026 06:29:54 GMT</pubDate>
       <description>Newly verified community added to TypeScript &amp; Node.js Architects Hub: Community server discussing Claude API integrations, prompt techniques, and AI safety evaluations.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/ClaudeAI Anthropic Community (Reddit)</title>
-      <link>https://www.reddit.com/r/ClaudeAI/</link>
-      <guid isPermaLink="false">https://typescript-nodejs-architects-hub.netlify.app/#typescript-nodejs-architects-hub-reddit-20261002-1-2026-10-02</guid>
-      <pubDate>Fri, 02 Oct 2026 06:05:52 GMT</pubDate>
-      <description>Newly verified community added to TypeScript &amp; Node.js Architects Hub: Community focused on Anthropic's Claude models, Sonnet coding workflows, artifacts, and long-context capabilities.</description>
     </item>
   </channel>
 </rss>
