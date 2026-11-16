@@ -4,10 +4,17 @@
     <title>TypeScript &amp; Node.js Architects Hub</title>
     <link>https://typescript-nodejs-architects-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 13 Nov 2026 06:28:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 07:23:20 GMT</lastBuildDate>
     <atom:link href="https://typescript-nodejs-architects-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://typescript-nodejs-architects-hub.netlify.app/#typescript-nodejs-architects-hub-forum-20261029-1-2026-11-16</guid>
+      <pubDate>Mon, 16 Nov 2026 07:23:20 GMT</pubDate>
+      <description>Newly verified community added to TypeScript &amp; Node.js Architects Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://typescript-nodejs-architects-hub.netlify.app/#typescript-nodejs-architects-hub-forum-20261029-1-2026-11-13</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://typescript-nodejs-architects-hub.netlify.app/#typescript-nodejs-architects-hub-discord-20261016-1-2026-10-16</guid>
       <pubDate>Fri, 16 Oct 2026 06:05:39 GMT</pubDate>
       <description>Newly verified community added to TypeScript &amp; Node.js Architects Hub: Official community for Hack The Box users tackling active CTF machines, forensic challenges, and Academy modules.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/bugbounty Hunters (Reddit)</title>
-      <link>https://www.reddit.com/r/bugbounty/</link>
-      <guid isPermaLink="false">https://typescript-nodejs-architects-hub.netlify.app/#typescript-nodejs-architects-hub-reddit-20261015-1-2026-10-15</guid>
-      <pubDate>Thu, 15 Oct 2026 06:05:41 GMT</pubDate>
-      <description>Newly verified community added to TypeScript &amp; Node.js Architects Hub: Tips, methodologies, writeups, and bounty program discussions for HackerOne and Bugcrowd researchers.</description>
     </item>
   </channel>
 </rss>
