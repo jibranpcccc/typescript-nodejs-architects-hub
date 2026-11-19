@@ -4,10 +4,17 @@
     <title>TypeScript &amp; Node.js Architects Hub</title>
     <link>https://typescript-nodejs-architects-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 07:26:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 06:44:18 GMT</lastBuildDate>
     <atom:link href="https://typescript-nodejs-architects-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Python Official Discord (Discord)</title>
+      <link>https://discord.gg/python</link>
+      <guid isPermaLink="false">https://typescript-nodejs-architects-hub.netlify.app/#typescript-node-js-architects-hub-discord-2-2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 06:44:18 GMT</pubDate>
+      <description>Newly verified community added to TypeScript &amp; Node.js Architects Hub: Active real-time developer server for Python help, code reviews, algorithmic design, and package development.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/Python Developer Community (Reddit)</title>
       <link>https://www.reddit.com/r/Python/</link>
       <guid isPermaLink="false">https://typescript-nodejs-architects-hub.netlify.app/#typescript-node-js-architects-hub-reddit-1-2026-11-18</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://typescript-nodejs-architects-hub.netlify.app/#typescript-nodejs-architects-hub-forum-20261020-1-2026-10-20</guid>
       <pubDate>Tue, 20 Oct 2026 06:07:46 GMT</pubDate>
       <description>Newly verified community added to TypeScript &amp; Node.js Architects Hub: Elite technical security forum sharing binary exploitation writeups, malware analysis, and hardware hacking.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: InfoSec Vulnerability Feeds (Telegram)</title>
-      <link>https://t.me/infosec_alerts</link>
-      <guid isPermaLink="false">https://typescript-nodejs-architects-hub.netlify.app/#typescript-nodejs-architects-hub-telegram-20261019-1-2026-10-19</guid>
-      <pubDate>Mon, 19 Oct 2026 06:05:27 GMT</pubDate>
-      <description>Newly verified community added to TypeScript &amp; Node.js Architects Hub: Aggregated daily feeds of security advisories, GitHub proof-of-concepts, and defensive countermeasures.</description>
     </item>
   </channel>
 </rss>
